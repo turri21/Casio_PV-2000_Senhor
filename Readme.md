@@ -1,10 +1,10 @@
-=(Casio_PV-2000_Senhor notes)=-
-
-Tested: Working Video 720p, 1080p & Sound
-
 <p align="center">
     <img style="width: 450px;" src="assets/casio-pv-2000.png">
 </p>
+
+=(Casio_PV-2000_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
 
 # [Casio PV-2000](https://www.old-computers.com/museum/computer.asp?c=1167) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 This is an FPGA implementation of the Casio PV-2000 computer for the MiSTer FPGA platform.
